@@ -1,0 +1,4 @@
+C:\Users\heai0\OneDrive\Desktop\Basic13\obj\Debug\netcoreapp2.1\Basic13.csprojAssemblyReference.cache
+C:\Users\heai0\OneDrive\Desktop\Basic13\obj\Debug\netcoreapp2.1\Basic13.csproj.CoreCompileInputs.cache
+C:\Users\heai0\OneDrive\Desktop\Basic13\obj\Debug\netcoreapp2.1\Basic13.AssemblyInfoInputs.cache
+C:\Users\heai0\OneDrive\Desktop\Basic13\obj\Debug\netcoreapp2.1\Basic13.AssemblyInfo.cs
